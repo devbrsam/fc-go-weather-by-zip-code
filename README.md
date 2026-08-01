@@ -80,4 +80,6 @@ go tool cover -func=coverage.out
 
 ## Cloud Run
 
-The Cloud Run URL will be added after deployment.
+The deployed service is available at:
+
+https://weather-by-zipcode-1018900483590.southamerica-east1.run.app
